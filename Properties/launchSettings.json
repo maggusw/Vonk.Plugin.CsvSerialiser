@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vonk.Plugin.CsvSerializer": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\dude\\Desktop\\vonk3.6.1\\Vonk.Server.exe"
+    }
+  }
+}
